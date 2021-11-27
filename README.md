@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@Mo_Tech_Group](https://telegram.me/Mo_Tech_Group)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@Movieshouse8](https://telegram.me/Movieshouse8)**
 
 ### Features
 - Fully customisable.
